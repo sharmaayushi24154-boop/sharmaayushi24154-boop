@@ -5,7 +5,7 @@
 
 <!-- ✨ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=650&lines=CSE+Baddie+💅;DSA+Grind+Mode+ON+🔥;Future+Software+Engineer+🚀;Building+My+Tech+Empire+👑;Consistency+%3D+Power+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=650&lines=CSE+Student+💅;DSA+Grind+Mode+ON+🔥;Future+Software+Engineer+🚀;Building+My+Tech+Empire+👑;Consistency+%3D+Power+✨" />
 </p>
 
 <!-- 👀 Profile Views -->
@@ -15,7 +15,7 @@
 
 ---
 
-<h1 align="center">💅 Ayushi Sharma | CSE Baddie 💻✨</h1>
+<h1 align="center">💅 Ayushi Sharma | CSE STUDENT 💻✨</h1>
 
 <p align="center">
 💗 Smart • Consistent • Ambitious • Unstoppable 💗
