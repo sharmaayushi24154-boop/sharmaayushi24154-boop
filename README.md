@@ -1,29 +1,38 @@
-<!-- Typing Animation -->
+<!-- 🌸 Aesthetic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&width=500&lines=Hi+I'm+Ayushi+Sharma+🌸;B.Tech+CSE+Student+💻;DSA+%7C+Web+Dev+Learner+🚀;Future+Software+Engineer+✨" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=header&text=Ayushi%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Header -->
-<h1 align="center">🌷 Ayushi Sharma 🌷</h1>
-<h3 align="center">💻 B.Tech CSE Student | 🌸 Tech Enthusiast | 🚀 Future Developer</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Ayushi+Sharma+🌸;B.Tech+CSE+Student+💻;DSA+%7C+Web+Dev+Learner+🚀;Future+Software+Engineer+✨;Consistency+is+my+superpower+💖" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharmaayushi24154-boop&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
 
 ---
 
-<!-- Cute Divider -->
+<h1 align="center">🌷 Welcome to My GitHub 🌷</h1>
+
 <p align="center">💗 ─────── ⋆⋅☆⋅⋆ ─────── 💗</p>
+
+---
 
 ## 🌸 About Me
 
 ✨ 2nd Year B.Tech CSE Student  
 🎓 Graphic Era University  
-💡 Love core Computer Science subjects  
+💡 Passionate about **Core Computer Science**  
 📚 Currently learning **DSA & Web Development**  
-🔥 Hardworking & consistent learner  
-🌈 Exploring new technologies every day  
+🔥 Dedicated, hardworking & growth mindset  
+🌈 Always exploring new technologies  
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
 ### 🌷 Languages
 ![C](https://img.shields.io/badge/C-ffc0cb?style=for-the-badge&logo=c&logoColor=black)
@@ -34,7 +43,7 @@
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-ffb6c1?style=for-the-badge&logo=css3&logoColor=black)
-![JS](https://img.shields.io/badge/JavaScript-ffd1dc?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd1dc?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-ffc0cb?style=for-the-badge&logo=git&logoColor=black)
@@ -55,27 +64,20 @@
 
 ---
 
-## 🌷 Currently Working On
+## 🐍 Contribution Snake (So Cool 😍)
 
-🌸 Practicing DSA daily  
-🌸 Building Web Dev projects  
-🌸 Strengthening core CS fundamentals  
+```yaml
+name: Generate Snake
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
-## 💖 Quote I Believe In
-
-<p align="center">
-✨ "Small steps every day lead to big success." ✨
-</p>
-
----
-
-## 🌐 Connect With Me
-
-💌 Email: your-email@example.com  
-
----
-
-<!-- Cute Footer -->
-<p align="center">🌸 Made with 💖 by Ayushi 🌸</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: sharmaayushi24154-boop
+          outputs: dist/github-contribution-grid-snake.svg
